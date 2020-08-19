@@ -2,6 +2,8 @@
 
 This project is a scrape of a store in one of the biggest e-commerce store in Nigeria, Jumia. the information this project scraps are the titles, the prices and the ratings for the products.
 
+![screenshot](assets/Screenshot.jpg)
+
 ## 🔧 Built with<a name = "built_using"></a>
 
 - [Ruby](https://www.ruby-lang.org/)
