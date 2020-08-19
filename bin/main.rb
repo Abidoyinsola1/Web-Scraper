@@ -1,6 +1,6 @@
 # !/usr/bin/env ruby
 
-require_relative '../lib/scraper-logic.rb'
+require_relative '../lib/scraper_logic.rb'
 
 wedding_ring = WeddingRing.new
 
