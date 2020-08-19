@@ -19,11 +19,12 @@ class WeddingRing
       rating = ring.css('div.rev').text
       wedding_band.push(description)
       wedding_band.push(price)
-      wedding_band.push(rating)      
+      wedding_band.push(rating)
       @wedding_rings.push(wedding_band)
     end
     @wedding_rings
   end
+
   private
 
   def parse_url(url)
