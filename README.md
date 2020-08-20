@@ -4,8 +4,6 @@ This project is a scrape of a store in one of the biggest e-commerce store in Ni
 
 ![screenshot](assets/Screenshot.JPG)
 
-[Demo Video](https://www.loom.com/share/069609981ec84dc199022caf352437c5)
-
 ## 🔧 Built with<a name = "built_using"></a>
 
 - [Ruby](https://www.ruby-lang.org/)
