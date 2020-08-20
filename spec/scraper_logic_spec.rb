@@ -6,8 +6,8 @@ describe WeddingRing do
     it 'initialize url to string value' do
       expect(wedding_ring.url).to be_a(String)
     end
-    it 'initialize wedding_band to an empty array' do
-      expect(wedding_ring.wedding_rings).to eql([])
+    it 'initialize parsed_page to null' do
+      expect(wedding_ring.parsed_page.nil?).to eql(true)
     end
   end
   describe '#scrape' do
