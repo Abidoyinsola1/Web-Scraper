@@ -22,7 +22,6 @@ class WeddingRing
       wedding_band.push(rating)
       @wedding_rings.push(wedding_band)
     end
-   
     @wedding_rings
   end
 
