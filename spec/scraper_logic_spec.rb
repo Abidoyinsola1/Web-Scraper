@@ -1,4 +1,4 @@
-require '../lib/scraper_logic.rb'
+require_relative '../lib/scraper_logic.rb'
 
 describe WeddingRing do
   let(:wedding_ring) { WeddingRing.new }

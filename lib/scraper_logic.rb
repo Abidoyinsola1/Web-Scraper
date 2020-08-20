@@ -10,7 +10,7 @@ class WeddingRing
     @parsed_page = nil
   end
 
-  def scrape()
+  def scrape
     @parsed_page = parse_url(@url)
     @parsed_page.css('div.info').each do |ring|
       wedding_band = []

@@ -1,8 +1,8 @@
 <h2 align="center">Jumia Wedding Ring Store Scraper</h2>
 
-This project is a scrape of a store in one of the biggest e-commerce store in Nigeria, Jumia. the information this project scraps are the titles, the prices and the ratings for the products.
+This project is a scrape of a store in one of the biggest e-commerce store in Nigeria, Jumia. The information this project scrapes are the titles, the prices and the ratings for the products.
 
-![screenshot](assets/Screenshot.jpg)
+![screenshot](assets/Screenshot.JPG)
 
 [Demo Video](https://www.loom.com/share/069609981ec84dc199022caf352437c5)
 
@@ -19,7 +19,8 @@ Clone and run this repository by running these commands on the terminal:
 - `gem install bundler`
 - `bundle install`
 - cd bin/
-- Run ruby main.rb
+- run ruby bin/main.rb
+- run `rspec` to run the test in the terminal
 ```
 
 
